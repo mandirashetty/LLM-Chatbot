@@ -3,11 +3,11 @@ This project demonstrates the development of a chatbot using the Google GEMMA-2B
 
 ## Project Overview
 The LLM Chatbot is designed to provide intelligent and context-aware responses. It leverages the power of large language models (LLMs) and modern web technologies to deliver a seamless user experience.
-- Key Highlights
+
+**- Key Highlights**
   - Model Used: Google GEMMA-2B-it
   - Interface: Built with Streamlit for an intuitive and responsive user experience.
   - PDF Interaction: Upload PDFs and ask questions based on their content.
-
 
 ## Features
 
