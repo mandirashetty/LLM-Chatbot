@@ -34,7 +34,6 @@ The LLM Chatbot is designed to provide intelligent and context-aware responses. 
 - Streamlit: For building an interactive web-based user interface.
 - Python: Core programming language for the chatbot logic and backend.
 - PyPDF2: For parsing PDF files and extracting text content.
-- NLTK/Spacy: Used for natural language processing and question-answering capabilities.
 
 ## Future Enhancements
 
